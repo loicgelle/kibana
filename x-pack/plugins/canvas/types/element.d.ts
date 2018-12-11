@@ -6,7 +6,11 @@
 
 declare interface CanvasElementConfig {
   name: string;
+<<<<<<< HEAD
   image: any;
+=======
+  image: string;
+>>>>>>> b7d94df08a0e06b261a8c22a0d741ae0f13aa085
   expression: string;
   displayName?: string;
   help?: string;
